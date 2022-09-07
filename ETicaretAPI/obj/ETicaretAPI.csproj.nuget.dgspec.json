@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pissb\\Desktop\\EticaretUygulaması\\ETicaretAPI\\ETicaretAPI\\ETicaretAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pissb\\Desktop\\EticaretUygulaması\\ETicaretAPI\\ETicaretAPI\\ETicaretAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pissb\\Desktop\\EticaretUygulaması\\ETicaretAPI\\ETicaretAPI\\ETicaretAPI.csproj",
+        "projectName": "ETicaretAPI",
+        "projectPath": "C:\\Users\\Pissb\\Desktop\\EticaretUygulaması\\ETicaretAPI\\ETicaretAPI\\ETicaretAPI.csproj",
+        "packagesPath": "C:\\Users\\Pissb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pissb\\Desktop\\EticaretUygulaması\\ETicaretAPI\\ETicaretAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pissb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

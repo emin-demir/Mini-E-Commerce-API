@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "7CwQWDEHCPlBzP1MkmbU8udo+eX+zeaX6vRm0jDTzTo=",
+  "Source": "ETicaretAPI.API",
+  "BasePath": "_content/ETicaretAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ETicaretAPI.API\\wwwroot",
+      "Source": "ETicaretAPI.API",
+      "ContentRoot": "C:\\Users\\Pissb\\Desktop\\EticaretUygulaması\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
