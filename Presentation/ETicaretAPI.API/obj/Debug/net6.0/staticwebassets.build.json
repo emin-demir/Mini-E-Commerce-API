@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7CwQWDEHCPlBzP1MkmbU8udo+eX+zeaX6vRm0jDTzTo=",
+  "Hash": "YGIALlfV7elT6Vhh5mcj+6+S+ylHbWE/aA1t3/aNU+s=",
   "Source": "ETicaretAPI.API",
   "BasePath": "_content/ETicaretAPI.API",
   "Mode": "Default",
@@ -15,5 +15,23 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Pissb\\Desktop\\EticaretUygulaması\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\resource\\files\\Screenshot 2022-09-07 081637.jpg",
+      "SourceId": "ETicaretAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pissb\\Desktop\\EticaretUygulaması\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI.API",
+      "RelativePath": "resource/files/Screenshot 2022-09-07 081637.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resource\\files\\Screenshot 2022-09-07 081637.jpg"
+    }
+  ]
 }
