@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ETicaretAPI.Infrastructure.Storage
-{
+{ 
     public class StorageService : IStorageService
     {
 
@@ -28,11 +28,14 @@ namespace ETicaretAPI.Infrastructure.Storage
             => _storage.GetFiles(pathOrContainerName);
 
         public bool HasFi1e(string pathOrContainerName, string fileName)
-        => _storage.HasFi1e(pathOrContainerName, fileName);
+        {
+            throw new NotImplementedException();
+        }
 
         public Task<List<(string fileName, string pathOrContainerName)>> UploadAsync(string pathOrContainerName, IFormFileCollection files)
             => _storage.UploadAsync(pathOrContainerName, files);
             
+    
     }
 
 }

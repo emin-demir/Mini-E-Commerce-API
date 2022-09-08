@@ -20,7 +20,6 @@ C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.
 C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net6.0\ETicaretAPI.API.AssemblyInfoInputs.cache
 C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net6.0\ETicaretAPI.API.AssemblyInfo.cs
 C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net6.0\ETicaretAPI.API.csproj.CoreCompileInputs.cache
-C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net6.0\ETicaretAPI.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net6.0\ETicaretAPI.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net6.0\staticwebassets.development.json
@@ -74,3 +73,9 @@ C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.
 C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\ETicaretAPI.Infrastructure.dll
 C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\ETicaretAPI.Infrastructure.pdb
 C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\ETicaretAPI.API.staticwebassets.runtime.json
+C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\Pissb\Desktop\EticaretUygulaması\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\System.Memory.Data.dll
