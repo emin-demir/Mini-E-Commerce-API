@@ -8,5 +8,6 @@ namespace ETicaretAPI.Domain.Entities.Table_Hierarchy
 {
     public class ProductImageFile: File
     {
+        public ICollection<Product> Products { get; set; }
     }
 }

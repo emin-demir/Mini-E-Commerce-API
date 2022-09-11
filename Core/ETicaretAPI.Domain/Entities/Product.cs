@@ -1,4 +1,5 @@
 ﻿using ETicaretAPI.Domain.Entities.Common;
+using ETicaretAPI.Domain.Entities.Table_Hierarchy;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,7 @@ namespace ETicaretAPI.Domain.Entities
         public int Stock { get; set; } 
         public float Price { get; set; }
         public ICollection<Order> Orders { get; set; }
+        public ICollection<ProductImageFile> ProductImageFiles{ get; set; }
 
     }
 }
